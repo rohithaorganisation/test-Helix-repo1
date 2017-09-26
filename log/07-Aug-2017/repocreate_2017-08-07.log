@@ -1,0 +1,175 @@
+2017-08-07 18:11:29,534 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:32,033 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:34,392 [5872 ] [INFO    ] [<module>] Repository test-Helix-repo66is created::
+2017-08-07 18:11:34,398 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:35,658 [5872 ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:11:35,658 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:37,034 [5872 ] [INFO    ] [<module>] get a tree
+2017-08-07 18:11:37,034 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:38,620 [5872 ] [INFO    ] [<module>] create a tree
+2017-08-07 18:11:38,620 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:39,918 [5872 ] [INFO    ] [<module>] get git commit
+2017-08-07 18:11:39,925 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:41,397 [5872 ] [INFO    ] [<module>] created git commit
+2017-08-07 18:11:41,398 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:43,142 [5872 ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:11:43,142 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:44,932 [5872 ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:11:44,951 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:46,658 [5872 ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:11:46,658 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:48,564 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:50,549 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:52,752 [5872 ] [INFO    ] [<module>] uploaded helix_dev.yml into helix-dev branch
+2017-08-07 18:11:52,752 [5872 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:11:54,970 [5872 ] [INFO    ] [<module>] uploaded helix_qa.yml into helix-qa branch
+2017-08-07 18:17:46,434 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:48,585 [7008 ] [INFO    ] [<module>] Repo test-Helix-repo66already exists
+2017-08-07 18:17:48,591 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:50,017 [7008 ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:17:50,025 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:51,374 [7008 ] [INFO    ] [<module>] get a tree
+2017-08-07 18:17:51,380 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:52,812 [7008 ] [INFO    ] [<module>] create a tree
+2017-08-07 18:17:52,816 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:54,058 [7008 ] [INFO    ] [<module>] get git commit
+2017-08-07 18:17:54,061 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:55,650 [7008 ] [INFO    ] [<module>] created git commit
+2017-08-07 18:17:55,658 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:57,172 [7008 ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:17:57,176 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:17:58,872 [7008 ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:17:58,877 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:18:00,634 [7008 ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:18:00,640 [7008 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:18:02,145 [7008 ] [ERROR   ] [<module>] 'content'
+2017-08-07 18:19:19,434 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:21,136 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:23,512 [4716 ] [INFO    ] [<module>] Repository test-Helix-repo67is created::
+2017-08-07 18:19:23,517 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:24,827 [4716 ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:19:24,832 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:26,131 [4716 ] [INFO    ] [<module>] get a tree
+2017-08-07 18:19:26,136 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:27,619 [4716 ] [INFO    ] [<module>] create a tree
+2017-08-07 18:19:27,625 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:28,927 [4716 ] [INFO    ] [<module>] get git commit
+2017-08-07 18:19:28,933 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:30,517 [4716 ] [INFO    ] [<module>] created git commit
+2017-08-07 18:19:30,526 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:32,446 [4716 ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:19:32,452 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:34,290 [4716 ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:19:34,293 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:35,993 [4716 ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:19:35,998 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:38,172 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:40,114 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:41,966 [4716 ] [INFO    ] [<module>] uploaded helix_dev.yml into helix-dev branch
+2017-08-07 18:19:41,970 [4716 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:19:44,085 [4716 ] [INFO    ] [<module>] uploaded helix_qa.yml into helix-qa branch
+2017-08-07 18:23:49,915 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:23:52,147 [7656 ] [INFO    ] [<module>] Repo test-Helix-repo67already exists
+2017-08-07 18:23:52,152 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:23:53,458 [7656 ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:23:53,464 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:23:54,716 [7656 ] [INFO    ] [<module>] get a tree
+2017-08-07 18:23:54,720 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:23:56,152 [7656 ] [INFO    ] [<module>] create a tree
+2017-08-07 18:23:56,155 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:23:57,463 [7656 ] [INFO    ] [<module>] get git commit
+2017-08-07 18:23:57,468 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:23:58,954 [7656 ] [INFO    ] [<module>] created git commit
+2017-08-07 18:23:58,965 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:24:00,611 [7656 ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:24:00,617 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:24:02,222 [7656 ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:24:02,227 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:24:03,855 [7656 ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:24:03,861 [7656 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:24:05,241 [7656 ] [ERROR   ] [<module>] 'content'
+2017-08-07 18:25:12,367 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:14,566 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:16,848 [5532 ] [INFO    ] [<module>] Repository test-Helix-repo68is created::
+2017-08-07 18:25:16,857 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:18,273 [5532 ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:25:18,280 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:19,724 [5532 ] [INFO    ] [<module>] get a tree
+2017-08-07 18:25:19,731 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:21,358 [5532 ] [INFO    ] [<module>] create a tree
+2017-08-07 18:25:21,366 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:22,853 [5532 ] [INFO    ] [<module>] get git commit
+2017-08-07 18:25:22,856 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:24,525 [5532 ] [INFO    ] [<module>] created git commit
+2017-08-07 18:25:24,534 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:26,285 [5532 ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:25:26,292 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:28,091 [5532 ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:25:28,096 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:30,464 [5532 ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:25:30,471 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:32,402 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:34,201 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:36,116 [5532 ] [INFO    ] [<module>] uploaded helix_dev.yml into helix-dev branch
+2017-08-07 18:25:36,124 [5532 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:25:38,048 [5532 ] [INFO    ] [<module>] uploaded helix_qa.yml into helix-qa branch
+2017-08-07 18:38:00,491 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:02,455 [3892 ] [INFO    ] [<module>] Repo test-Helix-repo68already exists
+2017-08-07 18:38:02,458 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:03,739 [3892 ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:38:03,739 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:04,992 [3892 ] [INFO    ] [<module>] get a tree
+2017-08-07 18:38:05,008 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:06,466 [3892 ] [INFO    ] [<module>] create a tree
+2017-08-07 18:38:06,473 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:07,802 [3892 ] [INFO    ] [<module>] get git commit
+2017-08-07 18:38:07,809 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:09,353 [3892 ] [INFO    ] [<module>] created git commit
+2017-08-07 18:38:09,356 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:10,992 [3892 ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:38:10,992 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:12,621 [3892 ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:38:12,626 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:14,192 [3892 ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:38:14,192 [3892 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:38:15,523 [3892 ] [ERROR   ] [<module>] 'content'
+2017-08-07 18:50:39,835 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:41,634 [5996 ] [INFO    ] [<module>] Repo test-Helix-repo68already exists
+2017-08-07 18:50:41,637 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:42,963 [5996 ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:50:42,968 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:44,220 [5996 ] [INFO    ] [<module>] get a tree
+2017-08-07 18:50:44,220 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:45,721 [5996 ] [INFO    ] [<module>] create a tree
+2017-08-07 18:50:45,721 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:47,067 [5996 ] [INFO    ] [<module>] get git commit
+2017-08-07 18:50:47,082 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:48,776 [5996 ] [INFO    ] [<module>] created git commit
+2017-08-07 18:50:48,785 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:50,623 [5996 ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:50:50,629 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:52,173 [5996 ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:50:52,173 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:53,751 [5996 ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:50:53,771 [5996 ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:50:55,132 [5996 ] [ERROR   ] [<module>] 'content'
+2017-08-07 18:51:41,862 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:43,899 [208  ] [INFO    ] [<module>] Repo test-Helix-repo68already exists
+2017-08-07 18:51:43,903 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:45,188 [208  ] [INFO    ] [<module>] get a reference of master
+2017-08-07 18:51:45,204 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:46,633 [208  ] [INFO    ] [<module>] get a tree
+2017-08-07 18:51:46,654 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:48,285 [208  ] [INFO    ] [<module>] create a tree
+2017-08-07 18:51:48,291 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:49,584 [208  ] [INFO    ] [<module>] get git commit
+2017-08-07 18:51:49,587 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:51,004 [208  ] [INFO    ] [<module>] created git commit
+2017-08-07 18:51:51,004 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:52,729 [208  ] [INFO    ] [<module>] created reference for branch helix-dev
+2017-08-07 18:51:52,729 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:54,490 [208  ] [INFO    ] [<module>] created reference for branch helix-qa
+2017-08-07 18:51:54,490 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:56,141 [208  ] [INFO    ] [<module>] created reference for branch helix-prod
+2017-08-07 18:51:56,141 [208  ] [INFO    ] [_new_conn] Starting new HTTPS connection (1): api.github.com
+2017-08-07 18:51:57,566 [208  ] [ERROR   ] [<module>] 'content'

@@ -1,0 +1,81 @@
+2017-07-06 13:09:58,403 [988  ] [INFO    ] [<module>] Repository test-Helix-repois created::
+2017-07-06 13:10:02,969 [988  ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:10:10,400 [988  ] [ERROR   ] [<module>] 404 {'message': 'Not Found', 'documentation_url': 'https://developer.github.com/v3'}
+2017-07-06 13:13:03,548 [3388 ] [INFO    ] [<module>] Repo test-Helix-repoalready exists
+2017-07-06 13:13:08,005 [3388 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:13:09,677 [3388 ] [ERROR   ] [<module>] 422 {'documentation_url': 'https://developer.github.com/v3/git/refs/#create-a-reference', 'message': 'Reference already exists'}
+2017-07-06 13:13:23,491 [6568 ] [INFO    ] [<module>] Repository test-Helix-repo1is created::
+2017-07-06 13:13:27,878 [6568 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:13:34,470 [6568 ] [ERROR   ] [<module>] 404 {'message': 'Not Found', 'documentation_url': 'https://developer.github.com/v3'}
+2017-07-06 13:16:41,847 [6068 ] [INFO    ] [<module>] Repository test-Helix-repo2is created::
+2017-07-06 13:16:41,847 [6068 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:16:44,459 [6068 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\log'
+2017-07-06 13:17:49,640 [7540 ] [INFO    ] [<module>] Repository test-Helix-repo3is created::
+2017-07-06 13:17:49,640 [7540 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:17:52,271 [7540 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\example.txt'
+2017-07-06 13:20:45,128 [2592 ] [INFO    ] [<module>] Repository test-Helix-repo4is created::
+2017-07-06 13:20:45,128 [2592 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:20:47,798 [2592 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:/github.txt'
+2017-07-06 13:28:41,708 [3812 ] [INFO    ] [<module>] Repository test-Helix-repo5is created::
+2017-07-06 13:28:41,708 [3812 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:28:44,385 [3812 ] [ERROR   ] [<module>] [Errno 22] Invalid argument: 'C:\test\\example'
+2017-07-06 13:29:16,117 [8136 ] [INFO    ] [<module>] Repository test-Helix-repo6is created::
+2017-07-06 13:29:16,117 [8136 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:29:18,758 [8136 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'C:\\test\\example'
+2017-07-06 13:47:43,885 [4648 ] [ERROR   ] [<module>] [Errno 11001] getaddrinfo failed
+2017-07-06 13:48:48,464 [3112 ] [INFO    ] [<module>] Repository test-Helix-repois created::
+2017-07-06 13:48:48,464 [3112 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:48:51,106 [3112 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\example.txt'
+2017-07-06 13:50:28,220 [8188 ] [INFO    ] [<module>] Repo test-Helix-repoalready exists
+2017-07-06 13:50:28,220 [8188 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:50:30,882 [8188 ] [ERROR   ] [<module>] [Errno 22] Invalid argument: 'C:\test\\example'
+2017-07-06 13:51:08,679 [4492 ] [INFO    ] [<module>] Repo test-Helix-repoalready exists
+2017-07-06 13:51:08,679 [4492 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-06 13:51:11,274 [4492 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'C:\\test\\example'
+2017-07-06 13:54:22,061 [1620 ] [INFO    ] [<module>] Repository test-Helix-repooois created::
+2017-07-06 13:54:26,522 [1620 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:54:31,807 [1620 ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-07-06 13:54:34,526 [1620 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\example.yml'
+2017-07-06 13:55:52,730 [3200 ] [INFO    ] [<module>] Repo test-Helix-repoooalready exists
+2017-07-06 13:55:57,303 [3200 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:55:58,819 [3200 ] [ERROR   ] [<module>] 422 {'documentation_url': 'https://developer.github.com/v3/git/refs/#create-a-reference', 'message': 'Reference already exists'}
+2017-07-06 13:56:18,805 [4932 ] [INFO    ] [<module>] Repository test-Helix-repoois created::
+2017-07-06 13:56:23,330 [4932 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:56:28,596 [4932 ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-07-06 13:56:31,393 [4932 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\example.yml'
+2017-07-06 13:58:42,547 [2468 ] [INFO    ] [<module>] Repo test-Helix-repooalready exists
+2017-07-06 13:58:47,000 [2468 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:58:48,549 [2468 ] [ERROR   ] [<module>] 422 {'message': 'Reference already exists', 'documentation_url': 'https://developer.github.com/v3/git/refs/#create-a-reference'}
+2017-07-06 13:59:07,085 [7420 ] [INFO    ] [<module>] Repository test-Helix-repoo00is created::
+2017-07-06 13:59:11,681 [7420 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 13:59:16,859 [7420 ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-07-06 13:59:19,484 [7420 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\example'
+2017-07-06 14:05:48,377 [4496 ] [INFO    ] [<module>] Repo test-Helix-repoo00already exists
+2017-07-06 14:05:52,681 [4496 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 14:05:54,275 [4496 ] [ERROR   ] [<module>] 422 {'documentation_url': 'https://developer.github.com/v3/git/refs/#create-a-reference', 'message': 'Reference already exists'}
+2017-07-06 16:07:14,057 [5420 ] [INFO    ] [<module>] Repo test-Helix-repo13already exists
+2017-07-06 16:07:18,585 [5420 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:07:20,179 [5420 ] [ERROR   ] [<module>] 422 {'documentation_url': 'https://developer.github.com/v3/git/refs/#create-a-reference', 'message': 'Reference already exists'}
+2017-07-06 16:08:52,953 [5088 ] [INFO    ] [<module>] Repository test-Helix-repo14is created::
+2017-07-06 16:08:56,398 [5088 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:09:00,695 [5088 ] [ERROR   ] [<module>] get_file_contents() got multiple values for argument 'path'
+2017-07-06 16:10:19,974 [5984 ] [INFO    ] [<module>] Repository test-Helix-repo15is created::
+2017-07-06 16:10:24,332 [5984 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:10:30,930 [5984 ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-07-06 16:10:33,603 [5984 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\example'
+2017-07-06 16:12:30,475 [1300 ] [INFO    ] [<module>] Repository test-Helix-repo16is created::
+2017-07-06 16:12:34,788 [1300 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:12:42,490 [1300 ] [ERROR   ] [<module>] 409 {'documentation_url': 'https://developer.github.com/v3/repos/contents/', 'message': 'README.md does not match a84a856201c4e00a5a221d4cfa3d9aca9a2930f2'}
+2017-07-06 16:13:30,410 [6304 ] [INFO    ] [<module>] Repository test-Helix-repo17is created::
+2017-07-06 16:13:35,083 [6304 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:13:42,829 [6304 ] [ERROR   ] [<module>] 404 {'message': 'Not Found', 'documentation_url': 'https://developer.github.com/v3'}
+2017-07-06 16:15:19,452 [5448 ] [INFO    ] [<module>] Repository test-Helix-repo18is created::
+2017-07-06 16:15:24,007 [5448 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:15:31,990 [5448 ] [ERROR   ] [<module>] 404 {'message': 'Not Found', 'documentation_url': 'https://developer.github.com/v3'}
+2017-07-06 16:17:28,318 [5292 ] [INFO    ] [<module>] Repo test-Helix-repo18already exists
+2017-07-06 16:17:32,616 [5292 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:17:34,246 [5292 ] [ERROR   ] [<module>] 422 {'documentation_url': 'https://developer.github.com/v3/git/refs/#create-a-reference', 'message': 'Reference already exists'}
+2017-07-06 16:17:53,106 [300  ] [INFO    ] [<module>] Repository test-Helix-repo19is created::
+2017-07-06 16:17:57,471 [300  ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-06 16:18:05,778 [300  ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-07-06 16:18:08,403 [300  ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\example'

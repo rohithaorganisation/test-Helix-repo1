@@ -1,0 +1,28 @@
+2017-07-12 17:02:10,946 [2324 ] [INFO    ] [<module>] Repository test-Helix-repois created::
+2017-07-12 17:02:15,388 [2324 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-12 17:02:20,530 [2324 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-12 17:02:23,155 [2324 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'E:\\log1.txt'
+2017-07-12 17:05:01,611 [964  ] [INFO    ] [<module>] Repository test-Helix-repo1is created::
+2017-07-12 17:05:07,166 [964  ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-12 17:05:15,554 [964  ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-12 17:05:20,036 [964  ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x0000005CEA1D6DD8>]
+2017-07-12 17:12:30,225 [6452 ] [INFO    ] [<module>] Repository test-Helix-repo2is created::
+2017-07-12 17:12:34,571 [6452 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-12 17:12:40,001 [6452 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-12 17:12:42,657 [6452 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x000000A2895FE5C0>]
+2017-07-12 18:18:38,880 [2460 ] [INFO    ] [<module>] Repository test-Helix-repo3is created::
+2017-07-12 18:18:43,224 [2460 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-12 18:18:48,462 [2460 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-12 18:18:51,083 [2460 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x0000000F0402E588>]
+2017-07-12 18:25:07,883 [7500 ] [INFO    ] [<module>] Repository test-Helix-repo2is created::
+2017-07-12 18:25:12,150 [7500 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-12 18:25:17,177 [7500 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-12 18:25:19,669 [7500 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x0000007329D8E630>]
+2017-07-12 18:28:11,472 [3700 ] [INFO    ] [<module>] Repository test-Helix-repo4is created::
+2017-07-12 18:28:16,202 [3700 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-12 18:28:21,184 [3700 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-12 18:28:23,694 [3700 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x0000007239D7E5F8>]
+2017-07-12 18:32:28,371 [6172 ] [INFO    ] [<module>] Repository test-Helix-repo5is created::
+2017-07-12 18:32:33,617 [6172 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-12 18:32:38,601 [6172 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-12 18:32:41,196 [6172 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x0000005AE5A7E5C0>]

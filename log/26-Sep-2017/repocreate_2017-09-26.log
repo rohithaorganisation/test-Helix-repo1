@@ -1,0 +1,25 @@
+2017-09-26 11:46:14,331 [2608 ] [ERROR   ] [<module>] name 'rohithaorganisation' is not defined
+2017-09-26 11:46:55,637 [4940 ] [INFO    ] [<module>] Repository test-Helix-repo6is created::
+2017-09-26 11:47:00,096 [4940 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-09-26 11:47:05,503 [4940 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-09-26 11:47:08,104 [4940 ] [ERROR   ] [<module>] [Errno 22] Invalid argument: 'E:\x07ws\\main.yml'
+2017-09-26 11:51:56,308 [6972 ] [INFO    ] [<module>] Repository test-Helix-repo5is created::
+2017-09-26 11:52:01,943 [6972 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-09-26 11:52:07,912 [6972 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-09-26 11:52:10,913 [6972 ] [ERROR   ] [<module>] [Errno 22] Invalid argument: 'D:\testgithub\\example.txt'
+2017-09-26 11:52:38,918 [5068 ] [INFO    ] [<module>] Repository test-Helix-repo4is created::
+2017-09-26 11:52:43,729 [5068 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-09-26 11:52:49,767 [5068 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-09-26 11:52:52,402 [5068 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'D:\\testgithub\\example.txt'
+2017-09-26 11:53:28,466 [5508 ] [INFO    ] [<module>] Repository test-Helix-repo3is created::
+2017-09-26 11:53:33,618 [5508 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-09-26 11:53:41,727 [5508 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-09-26 11:53:45,546 [5508 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'C:\\testgithub\\example.txt'
+2017-09-26 11:54:34,480 [4116 ] [INFO    ] [<module>] Repository test-Helix-repo2is created::
+2017-09-26 11:54:39,188 [4116 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-09-26 11:54:44,843 [4116 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-09-26 11:54:47,732 [4116 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x000000A7A97D1518>]
+2017-09-26 11:57:15,361 [6040 ] [INFO    ] [<module>] Repository test-Helix-repo1is created::
+2017-09-26 11:57:20,108 [6040 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-09-26 11:57:25,714 [6040 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-09-26 11:57:28,315 [6040 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x000000B655BD44E0>]

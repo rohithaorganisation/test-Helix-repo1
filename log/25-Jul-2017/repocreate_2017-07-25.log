@@ -1,0 +1,4 @@
+2017-07-25 19:29:02,258 [3604 ] [INFO    ] [<module>] Repository test-Helix-repo6is created::
+2017-07-25 19:29:06,978 [3604 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-07-25 19:29:12,157 [3604 ] [INFO    ] [<module>] pushing dev.yml file into master branch
+2017-07-25 19:29:14,818 [3604 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x000000BD59BFBE10>]

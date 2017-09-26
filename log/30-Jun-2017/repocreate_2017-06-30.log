@@ -1,0 +1,12 @@
+2017-06-30 14:45:48,406 [6216 ] [INFO    ] [<module>] Repository test-Helix-repo13is created::
+2017-06-30 14:45:52,802 [6216 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-06-30 14:45:57,996 [6216 ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-06-30 14:46:00,574 [6216 ] [ERROR   ] [<module>] [Errno 2] No such file or directory: 'C:\\test\\logging.log'
+2017-06-30 14:49:35,333 [3452 ] [INFO    ] [<module>] Repository test-Helix-repo14is created::
+2017-06-30 14:49:39,602 [3452 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-06-30 14:49:44,821 [3452 ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-06-30 14:49:47,471 [3452 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x0000001BDC8B56A0>]
+2017-06-30 15:05:21,290 [2480 ] [INFO    ] [<module>] Repo test-Helix-repo14already exists
+2017-06-30 15:05:25,530 [2480 ] [INFO    ] [<module>] Creating branches helix-dev,helix-prod,helix-qa
+2017-06-30 15:05:30,877 [2480 ] [INFO    ] [<module>] pushing dev.yml file into helix-dev branch
+2017-06-30 15:05:33,508 [2480 ] [INFO    ] [<module>] [<github.InputGitTreeElement.InputGitTreeElement object at 0x000000CF22569400>]
